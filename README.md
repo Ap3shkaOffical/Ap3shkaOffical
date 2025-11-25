@@ -1,22 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет+👋;+Я+[Твоё_Имя]!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World;+I+am+Ap3shka!;" />
 </h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<h2 align="center">💻 Обо мне</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  Python-разработчик | Увлекаюсь AI и созданием крутых проектов
+  Python Developer | Passionate about AI and creating cool projects
   <br>
-  Всегда открыт к коллабам и новым вызовам! 🔥
+  Always open to collaborations and new challenges
 </p>
 
 ---
 
-### 🛠️ Мой стек технологий
+### Technologies
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,44 +31,29 @@
 
 ---
 
-### 📊 Статистика
+### Statistics
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИКНАЙМ&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ap3shka&theme=radical&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИКНАЙМ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ap3shka&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
 
-### 🔥 Активность
+### Activity
 <div align="center">
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИКНАЙМ&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ap3shka&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### 📫 Свяжись со мной
+### Connect With Me
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_ТЕЛЕГРАМ)
-[![VK](https://img.shields.io/badge/ВКонтакте-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ТВОЙ_VK)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ТВОЙ_EMAIL)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ap3shka)
 
 </div>
-
----
-
-<div align="center">
-  
-### 🚀 Вперёд, к коду!
-  
-```python
-def awesome_developer():
-    while True:
-        code()
-        learn()
-        create()
