@@ -31,17 +31,6 @@
 
 ---
 
-### Statistics
-<div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ap3shka&theme=radical&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ap3shka&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
 ### Connect With Me
 <div align="center">
   
